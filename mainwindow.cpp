@@ -7,7 +7,7 @@
 #include <time.h>
 #include <math.h>
 #include <QtGui>
-//wow
+//wow keren
 #include "BlobTracking.h"
 #include "VehicleCounting.h"
 #include "PixelBased.h"
